@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscerify",
+        "uuid": 1248813,
+        "checksum": "109j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
